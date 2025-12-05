@@ -61,3 +61,8 @@ Mayomide Store lacked a consolidated view of sales and customer patterns, making
 * Historical data may contain missing or inconsistent entries affecting insights.
 * Profit calculations assume constant cost and discount structures.
 * Analysis is limited to available datasets; additional behavioral or external market data could provide deeper insights.
+
+## Conclusion
+
+The interactive Power BI dashboard for Mayomide Store provides a single source of truth for sales, profit, and customer insights. By transforming raw data into actionable visualizations, it empowers stakeholders to make informed decisions, identify growth opportunities, and optimize operations. This project demonstrates the value of data-driven decision-making and sets the foundation for future analytics initiatives.
+
