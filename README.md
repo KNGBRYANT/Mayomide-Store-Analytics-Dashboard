@@ -1,10 +1,15 @@
 # Mayomide-Store-Analytics-Dashboard
 
-
-
 ## Executive Summary
 
 Mayomide Store required a comprehensive view of sales, profit, customer behavior, and product performance over a four-year period. An interactive Power BI dashboard was developed to provide real-time insights across key metrics including Sales, Profit, Profit Margin, Quantity, and Average Discount. The solution reveals year-over-year trends, identifies top-performing markets and customer segments, and highlights product-level opportunities to guide pricing, marketing, and inventory strategies. The dashboard enhances operational visibility, supports faster decision-making, and highlights areas for strategic growth.
+
+
+<img src="Dashboard_Overview.png" alt="Dashboard Overview" width="800px" />
+
+
+
+Experience the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWNhMjc1NWEtYjQ2Yi00ZDY2LWE1OGQtMzQ2NTIzNTdmMTJiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9).
 
 ## Business Problem
 
