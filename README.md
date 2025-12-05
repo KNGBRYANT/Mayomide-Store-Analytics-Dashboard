@@ -5,11 +5,24 @@
 Mayomide Store required a comprehensive view of sales, profit, customer behavior, and product performance over a four-year period. An interactive Power BI dashboard was developed to provide real-time insights across key metrics including Sales, Profit, Profit Margin, Quantity, and Average Discount. The solution reveals year-over-year trends, identifies top-performing markets and customer segments, and highlights product-level opportunities to guide pricing, marketing, and inventory strategies. The dashboard enhances operational visibility, supports faster decision-making, and highlights areas for strategic growth.
 
 
-<img src="Dashboard_Overview.png" alt="Dashboard Overview" width="800px" />
+<img src="Dashboard_Overview.jpg" alt="Dashboard Overview" width="800px" />
 
 
 
 Experience the full interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYWNhMjc1NWEtYjQ2Yi00ZDY2LWE1OGQtMzQ2NTIzNTdmMTJiIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9).
+
+## Visual Summary
+
+To complement the findings, the dashboard includes the following visual highlights:
+
+* **Monthly Trends**: Column chart showing year-over-year performance for Sales, Profit, Profit Margin, Quantity, and Average Discount with top months highlighted.
+* **Market Performance**: Bar chart comparing revenue and profit across regions, emphasizing the highest-performing market.
+* **Customer Segmentation**: Pie chart displaying profit contribution by segment (Corporate, Consumer, and Self-Employed).
+* **Product Breakdown**: Decomposition tree visualizing category, subcategory, and product-level profit, allowing dynamic exploration of high-performing and underperforming items.
+
+These visuals provide an immediate understanding of key metrics and support data-driven decisions, making the insights easily digestible for stakeholders.
+
+
 
 ## Business Problem
 
